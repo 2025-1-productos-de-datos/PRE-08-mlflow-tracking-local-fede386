@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/federicovilla/github-unal/PRE-08-mlflow-tracking-local-fede386/my_mlruns/628151874921158372/a2da488c20df4db882d17ff9ddf0ebb4/artifacts
+end_time: 1748262528644
+entry_point_name: ''
+experiment_id: '628151874921158372'
+lifecycle_stage: active
+run_id: a2da488c20df4db882d17ff9ddf0ebb4
+run_name: elasticnet_bce753eb
+run_uuid: a2da488c20df4db882d17ff9ddf0ebb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748262528625
+status: 3
+tags: []
+user_id: federicovilla

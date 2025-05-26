@@ -1,0 +1,6 @@
+artifact_location: file:///Users/federicovilla/github-unal/PRE-08-mlflow-tracking-local-fede386/my_mlruns/628151874921158372
+creation_time: 1748193096384
+experiment_id: '628151874921158372'
+last_update_time: 1748193096384
+lifecycle_stage: active
+name: wine_quality_experiment

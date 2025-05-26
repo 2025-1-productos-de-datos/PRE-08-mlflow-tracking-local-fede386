@@ -37,6 +37,12 @@ def main():
     ## de los modelos llamado my_runs. Puede ser un disco de red
     ## o un bucket de S3, por ejemplo.
     ##
+    # working_directory = os.path.abspath(os.getcwd())
+    # mlflow_runs_path = os.path.join(working_directory, "my_mlruns")
+    # if not os.path.exists(mlflow_runs_path):
+    #     os.makedirs(mlflow_runs_path)
+    # mlflow.set_tracking_uri(mlflow_runs_path)
+
     working_directory = os.path.abspath(os.getcwd())
     mlflow_runs_path = os.path.join(working_directory, "my_mlruns")
 
@@ -105,7 +111,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-## Interface:
-## mlflow ui --backend-store-uri file:./my_mlruns
